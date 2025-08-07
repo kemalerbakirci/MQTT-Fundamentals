@@ -28,10 +28,10 @@ MQTT-Fundamentals/
 │   ├── publisher.py          # Sensor data publisher
 │   ├── subscriber.py         # Message subscriber & handler
 │   └── cli.py                # Interactive CLI dashboard
-├── � docs/                  # Documentation files
+├──  docs/                  # Documentation files
 │   ├── Learning_Guide_IoT_MQTT.md  # MQTT learning guide
 │   └── CONTRIBUTING.md       # Contribution guidelines
-├── �📄 requirements.txt       # Python dependencies
+├── 📄 requirements.txt       # Python dependencies
 ├── 📄 run.py                 # Application entry point
 ├── 📄 README.md              # Project documentation
 └── 📄 LICENSE                # MIT license
@@ -52,7 +52,7 @@ MQTT-Fundamentals/
 
 ---
 
-## �️ Prerequisites
+## Prerequisites
 
 - **Python 3.8+** (with pip)
 - **Internet Connection** (for MQTT broker access)
