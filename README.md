@@ -6,6 +6,8 @@ It demonstrates **IoT fundamentals**, **MQTT communication**, and **asynchronous
 
 The project is designed with a **modular, professional structure** to be pushed directly to GitHub and serve as part of a portfolio.
 
+If you want to have basic information about the subject: Learning_Guide_IoT_MQTT.md
+
 ---
 
 ## 📂 Directory Structure
